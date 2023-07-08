@@ -7,7 +7,7 @@
 		"merge",
 		"bot"
 	],
-	"repository": "https://github.com/yashoswalyo/MERGE-BOT",
+	"repository": "https://github.com/vansh876/MERGE-BOT",
 	"website": "https://telegram.dog/yashoswalyo",
 	"stack": "container",
 	"env": {
@@ -18,7 +18,7 @@
 	"formation": {
 		"worker": {
 			"quantity": 1,
-			"size": "free"
+			"size": "eco"
 		}
 	}
 }
